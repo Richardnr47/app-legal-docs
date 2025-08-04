@@ -44,12 +44,6 @@ BarnBagarna använder följande tredjepartstjänster:
 
 Vi kan uppdatera vår integritetspolicy från tid till annan. Vi kommer att meddela dig om eventuella ändringar genom att publicera den nya integritetspolicyn på denna sida.
 
-## Kontakta oss
-
-Om du har frågor om denna integritetspolicy, kontakta oss på:
-- E-post: [din-email@example.com]
-- Postadress: [Din adress]
-
 ---
 
 *Denna integritetspolicy gäller endast för BarnBagarna-appen och täcker inte andra webbplatser, produkter eller tjänster.*
