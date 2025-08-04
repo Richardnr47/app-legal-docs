@@ -70,13 +70,6 @@ Vi kan säga upp din tillgång till Appen när som helst utan förvarning om du 
 ## Tillämplig lag
 
 Dessa villkor styrs av svensk lag. Eventuella tvister ska lösas i svenska domstolar.
-
-## Kontakta oss
-
-Om du har frågor om dessa användarvillkor, kontakta oss på:
-- E-post: [din-email@example.com]
-- Postadress: [Din adress]
-
 ---
 
 *Genom att använda BarnBagarna bekräftar du att du har läst, förstått och godkänt dessa användarvillkor.*
